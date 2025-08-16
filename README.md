@@ -1,4 +1,4 @@
-# IncidentAlertDiscordRelease
+# IncidentAlert Discord Notifier
 
 This project provides a set of Bash scripts to monitor various security-related logs on a Linux server and send real-time alerts to a Discord channel via webhooks. It is designed for use in a SIEM (Security Information and Event Management) environment.
 
